@@ -60,5 +60,5 @@ Operational Efficiency: Provided data-driven insights into demand patterns, assi
 Revenue Growth: Clear visibility into top-selling products supports smarter business decisions to boost total revenue.
 
 8. Screenshots
-Home Page:
-Best/Worst Sellers Page:
+Home Page: https://github.com/ShivanshiManhas/Pizza-Sales-Dashboard/blob/main/Home%20page%20-%20Pizza%20Sales%20Dashboard.png
+Best/Worst Sellers Page: 
